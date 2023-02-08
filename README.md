@@ -1,16 +1,17 @@
-### Hi there 👋
+### Привет! 
+Меня зовут **Анна Станкевич** и я тестировщик ПО. 
 
-<!--
-**Anna-Stankevich/Anna-Stankevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Примеры того, что я умею:  
+* Ручное тестирование веб-приложений. [Домашняя работа по одноименному модулю;](https://github.com/Anna-Stankevich/manual-testing)  
+* Java. Модульное тестирование. [Репозиторий с командным проектом;](https://github.com/Anna-Stankevich/javaqa-team-diplom)   
+* Автоматизированное тестирование. [Репозиторий с дипломной работой.](https://github.com/Anna-Stankevich/graduation-project)  
 
-Here are some ideas to get you started:
+### Свидетельства об обучении Нетологии:
+* [Ручное тестирование веб-приложений](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/certificateManualTesting.pdf)
+* [Git — система контроля версий](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/certificateGit.pdf) 
+* [Java для тестировщиков](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/certificateJava.pdf)
+* [Автоматизированное тестирование](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/certificateAutomatedTesting.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Документ о квалификации Нетологии:
+* [Диплом о профессиональной переподготовке](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/diploma.pdf)
+
