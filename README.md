@@ -13,5 +13,5 @@
 * [Автоматизированное тестирование](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/certificateAutomatedTesting.pdf)
 
 ### Документ о квалификации Нетологии:
-* [Диплом о профессиональной переподготовке](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/diploma.pdf)
+* [Диплом о профессиональной переподготовке. Специалист по тестированию в области информационных технологий](https://github.com/Anna-Stankevich/Anna-Stankevich/blob/main/diploma.pdf)
 
