@@ -2,7 +2,8 @@
 Меня зовут **Анна** и я тестировщик ПО. 
 
 ### Примеры того, что я умею:  
-* Ручное тестирование веб-приложений. [Домашняя работа по одноименному модулю;](https://github.com/Anna-Stankevich/manual-testing)  
+* Ручное тестирование веб-приложений. [Домашняя работа по одноименному модулю;](https://github.com/Anna-Stankevich/manual-testing)
+* Тестирование API. Postman. [Репозиторий с демонстрационной работой;](https://github.com/Anna-Stankevich/demonstration-work)
 * Java. Модульное тестирование. [Репозиторий с командным проектом;](https://github.com/Anna-Stankevich/javaqa-team-diplom)   
 * Автоматизированное тестирование. [Репозиторий с дипломной работой.](https://github.com/Anna-Stankevich/graduation-project)  
 
